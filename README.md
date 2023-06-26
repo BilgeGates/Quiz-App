@@ -1,4 +1,4 @@
-# Weather-Application
+# Quiz-App
 
 ###  Hello, this project is created using HTML, CSS and JavaScript.  
 
